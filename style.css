@@ -1,0 +1,54 @@
+.main{
+  width: 100%;
+  background-color: #999;
+  display: flex;
+  flex-direction: row;
+}
+.left{
+  width: 25%;
+  background-color: #c45e45;
+  border: 5px solid #000;
+  margin: 5px;
+  padding: 6px;
+  /* background-image: url(); */
+}
+.right{
+  width: 70%;
+  background-color: #666;
+  border: 5px solid #000;
+  margin: 5px;
+  /* background-image: url(); */
+}
+#name{
+  color: green;
+}
+.left img{
+  border-radius: 50px;
+  border:5px solid #c454;
+}
+
+@media only screen and (min-width:1024px) and (max-width:1200px){
+  .main{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+  }
+  .left{
+    width: 25%;
+    background-color: #c454;
+    }
+  .right{
+    width: 70%;
+    background-color: #9966;
+      }
+}
+
+@media only screen and (min-width:1024px) and (max-width:768px){
+
+}
+@media only screen and (min-width:768px) and (max-width:480px){
+
+}
+@media only screen and (min-width:480px){
+
+}
