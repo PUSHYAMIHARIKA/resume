@@ -1,8 +1,50 @@
 {
   "left":{
-    "photo":"image.jpg",
+    "photo":"img1.jpg",
     "name":"Harika",
     "mail":"harikabn007@gmail.com",
     "phone":"9581439899"
+  },
+  "education":[
+  {
+    "course":"btech(computer science and engineering)",
+    "college":[
+      "ravindra colege of engineering for women",
+      "2015-2019",
+      "75%"
+    ]
+
+  },
+  {
+    "course":"intermediate(mpc)",
+    "college":[
+      "sri gayatri junior college",
+      "2013-2015",
+      "85%"
+    ]
+
+  },
+  {
+    "course":"ssc",
+    "college":[
+      "good shepherd english school",
+      "2012-2013",
+      "95%"
+    ]
   }
+],
+"skills":[
+  {
+    "name":"operating systems:",
+    "value":"windows,linux"
+  },
+  {
+    "name":"programing languages:",
+    "value":"c,c++,java"
+  },
+  {
+    "name":"web development:",
+    "value":"HTML,Phython"
+  }
+]
 }
